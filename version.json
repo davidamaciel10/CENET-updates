@@ -1,4 +1,29 @@
 {
-  "version": "8.0.0",
-  "notas": "Versión inicial con landing reorganizado y chequeo de actualizaciones."
+  "notas": "",
+  "modules": {
+    "cenet_suite": {
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/davidamaciel10/CeNET-updates/main/cenet_suite.exe"
+    },
+    "ingreso_app": {
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/davidamaciel10/CeNET-updates/main/ingreso_app.exe"
+    },
+    "calificaciones_app": {
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/davidamaciel10/CeNET-updates/main/calificaciones_app.exe"
+    },
+    "jurisdicciones_app": {
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/davidamaciel10/CeNET-updates/main/jurisdicciones_app.exe"
+    },
+    "generador_cenet": {
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/davidamaciel10/CeNET-updates/main/generador_cenet.exe"
+    },
+    "matriculacion_app": {
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/davidamaciel10/CeNET-updates/main/matriculacion_app.exe"
+    }
+  }
 }
